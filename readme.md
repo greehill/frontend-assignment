@@ -41,6 +41,8 @@ Your task is to **create a web app** that shows us the undecidability of the Gam
 
 ### Requirements
 
+#### Minimum
+
 - 30x30 cells at minimum, surrounded by buttons.
 - Indicators show the generation number and the size of population.
 - **Initial state (0th generation):**
@@ -50,14 +52,16 @@ Your task is to **create a web app** that shows us the undecidability of the Gam
   - Simulation can be **played** (started) and **paused**,
   - **stepped forward** with one step,
   - and **reset** to initial state (0th generation), where you can modify your initial state to have a different outcome. Please note, that reset doesn't clear the board.
-- _Optional (really, only if you are bored):_
-  - _Simulation speed could be selectable._
-  - _Aesthetics. You can definitely go past standard gray buttons._
-  - _You can even add selectable color themes._
-  - _You can add a `Random` button for randomizing the initial state,_
-  - _or add selectable built-in patterns (e.g. spaceship 🚀),_
-  - _or even combining the two!_
-  - _And if you are really, really bored, you can add a `step backward` button._ `¯\(◉◡◔)/¯`
+
+#### Optional (really, only if you are bored)
+
+- _Simulation speed could be selectable._
+- _Aesthetics. You can definitely go past standard gray buttons._
+- _You can even add selectable color themes._
+- _You can add a `Random` button for randomizing the initial state,_
+- _or add selectable built-in patterns (e.g. spaceship 🚀),_
+- _or even combining the two!_
+- _And if you are really, really bored, you can add a `step backward` button._ `¯\(◉◡◔)/¯`
 
 **Thank you a lot for your time, and have fun with the project! We can't wait to see your work! `{´◕ ◡ ◕｀}`**
 
