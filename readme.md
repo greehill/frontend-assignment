@@ -60,3 +60,5 @@ Your task is to **create a web app** that shows us the undecidability of the Gam
   - _And if you are really, really bored, you can add a `step backward` button._ `¯\(◉◡◔)/¯`
 
 **Thank you a lot for your time, and have fun with the project! We can't wait to see your work! `{´◕ ◡ ◕｀}`**
+
+![Have fun!](img/have_fun.gif)
