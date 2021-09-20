@@ -52,6 +52,7 @@ Your task is to **create a web app** that shows us the undecidability of the Gam
   - Simulation can be **played** (started) and **paused**,
   - **stepped forward** with one step,
   - and **reset** to initial state (0th generation), where you can modify your initial state to have a different outcome. Please note, that reset doesn't clear the board.
+  - Cells should not be clickable after moving away from 0th generation (i.e. no godmode).
 
 #### Optional (really, only if you are bored)
 
