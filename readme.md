@@ -36,7 +36,7 @@ Your task is to **create a web app** that shows us the undecidability of the Gam
 - Please write **clean code** with a quality you'd push to your workplace's repo.
 - **Tests are very welcome!** You don't need to take a tremendous time to implement flaky UI tests, but you can notice that the calculation of the next generation is a pure function which is quite easy to test. Or even implement with **TDD**. ;-)
 - Please use `git`. Reasonable sized commits with reasonable commit messages are preferred (not mandatory), so we can see how you've worked your way towards the result.
-- After you've finished, please push your repo to any mainstream hosting service (**GitHub, GitLab, Bitbucket**), and send it to us. If you are concerned about making your repo public, you can keep it private. Please use GitHub or GitLab, and add @Ozonid and @gergooo as collaborators.
+- Please push your repo to any mainstream hosting service (**GitHub, GitLab, Bitbucket**), and send it to us **when you are done working on it**. If you are concerned about making your repo public, you can keep it private. Please use GitHub or GitLab, and add @Ozonid and @gergooo as collaborators **after you finished**.
 - It's not a small task, but you might be able to finish the assignment in 8-12 hours.
 
 ### Requirements
